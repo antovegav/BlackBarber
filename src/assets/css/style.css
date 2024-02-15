@@ -1,0 +1,51 @@
+body{
+    background-image: url(/src/assets/img/stars.gif);
+    background-size:contain;
+    background-position: center;
+    background-repeat:repeat;
+    color: goldenrod;
+    overflow:visible;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+
+#img_principal{
+    display:block;
+    margin:auto;
+    border: 0;
+    width: 50%;
+    /* height: 450px; */
+}
+
+#servicios{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+#producto{
+    display: block;
+    margin: auto;
+}
+
+#carouselExampleRide {
+    display: block;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.whatsapp-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #20ac11; /* Color de WhatsApp */
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
